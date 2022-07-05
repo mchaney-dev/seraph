@@ -1,11 +1,12 @@
-# SERAPH #
-An open-source system administration utility for Windows.
+# seraph #
+An open-source system administration utility for Windows
 
 **Status:** In development
 
 ---
 
-> **MIT License**
+> **MIT LICENSE**
+>
 > Copyright (c) 2022 Max Haney
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
