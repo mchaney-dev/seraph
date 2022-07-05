@@ -19,7 +19,7 @@ $installSrc = null
 # path on local machine to extract client files to
 $installDest = null
 # path of client root folder
-$parentFolder = "$installDest\Redfern IT"
+$parentFolder = null
 
 ## installation wizard preferences ##
 # PS modules required by client - options: PSWindowsUpdate, ActiveDirectory, Microsoft.PowerShell.SecretManagement, Microsoft.PowerShell.SecretStore, Autologon
